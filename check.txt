@@ -1,1 +1,4 @@
 checks whether initializing empty git repo or git repo
+
+hello brother from another month
+
